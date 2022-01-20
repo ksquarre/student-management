@@ -1,0 +1,26 @@
+// teacher (create new teacher)
+   {
+        "_id" :734,
+        "name" :"sumit sharma",
+        "subject":"geography",
+        "age":39,
+        "address":"528,chandni chauk, New Delhi, India"
+    }
+//login as teacher 
+{
+    "_id":707,
+    "name":"Kahkasha Khan"
+}
+
+//student (create new student)
+
+{
+       "_id" : 17,
+       "name" :"honey",
+       "age" :19,
+       "subjects"   : ["maths","chemistry","hindi"],
+       "marks" :259,
+       "mentor_id"  : [505,101,606],
+       "address" :"132,Big Town,England"
+    
+}
